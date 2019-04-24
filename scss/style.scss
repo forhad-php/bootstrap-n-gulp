@@ -1,0 +1,11 @@
+// Grid work with the flexbox rules instead of floats.
+$enable-flex:         true;
+$enable-grid-classes: true;
+
+/* Start import from bootstrap scss */
+
+@import '../node_modules/bootstrap/scss/_functions.scss';
+@import '../node_modules/bootstrap/scss/_variables.scss';
+@import '../node_modules/bootstrap/scss/_mixins.scss';
+@import '../node_modules/bootstrap/scss/_reboot.scss';
+@import '../node_modules/bootstrap/scss/_grid.scss';

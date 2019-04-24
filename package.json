@@ -1,0 +1,17 @@
+{
+  "name": "tabs-pro",
+  "version": "1.0.0",
+  "description": "Tabs PRO is a WordPress tabs plugin for your WordPress website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^4.0.2"
+  }
+}
